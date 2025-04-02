@@ -1,5 +1,3 @@
-If you prefer to run the script manually (or want to modify it), you need Python installed.
-
 1️⃣ Install Requirements
 
 You'll need pyautogui and keyboard. Install them using:
