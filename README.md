@@ -9,7 +9,7 @@ pip install pyautogui keyboard
 ```
 2️⃣ Run the Script
 ```sh
-python touch_grass.py
+python app.py
 ```
 Make sure ```grass_button.png``` is in the same folder.
 
