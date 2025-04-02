@@ -1,7 +1,15 @@
-pip install pyautogui
+If you prefer to run the script manually (or want to modify it), you need Python installed.
 
-pip install keyboard
+1️⃣ Install Requirements
 
-Save grass_button.jpg in the same folder as script
+You'll need pyautogui and keyboard. Install them using:
 
-Note- Make sure the game screen is visible.
+```sh
+pip install pyautogui keyboard
+```
+2️⃣ Run the Script
+```sh
+python touch_grass.py
+```
+Make sure ```grass_button.png``` is in the same folder.
+
