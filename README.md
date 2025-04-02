@@ -21,12 +21,12 @@ Make sure ```grass_button.png``` is in the same folder.
 
 If you don't want to install Python, use the precompiled .exe file instead:
 
-[Download the latest release.](https://github.com/Rierra/Discord-auto-grass-clicker/releases/tag/v1.0)
+1. [Download the latest release.](https://github.com/Rierra/Discord-auto-grass-clicker/releases/tag/v1.0)
 
-Place grass_button.png in the same folder as the .exe.
+2. Place grass_button.png in the same folder as the .exe.
 
-Run app.exe (Windows might warn you since it's an unsigned executable).
+3.Run app.exe (Windows might warn you since it's an unsigned executable).
 
-⚠️ Note
+⚠️ NOTE
 
-Ensure the game window is visible on your screen when running the script.
+**Ensure the game window is visible on your screen when running the script.**
